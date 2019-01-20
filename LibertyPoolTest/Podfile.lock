@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (4.8.0)
+  - Charts (3.2.1):
+    - Charts/Core (= 3.2.1)
+  - Charts/Core (3.2.1)
+  - RappleProgressHUD (3.0.4)
+  - RxAtomic (4.4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Charts
+  - RappleProgressHUD
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Charts
+    - RappleProgressHUD
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  Charts: f122fb70b19847fa5817d018b77d6c5a2296ab25
+  RappleProgressHUD: c57f20ee8e2965c6107aaf76b97ed0f33f00bc1d
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+
+PODFILE CHECKSUM: e449893ae27896ce8daf47c32535987f864829c2
+
+COCOAPODS: 1.5.3
